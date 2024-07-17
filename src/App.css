@@ -36,3 +36,34 @@
     transform: rotate(360deg);
   }
 }
+.button {
+  background-color: #f0f0f0;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  font-size: 18px;
+  padding: 30px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.button:hover {
+  background-color: #e0e0e0;
+}
+.display {
+  background-color: #222;
+  color: #fff;
+  font-size: 24px;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+.input {
+  text-align: right;
+}
+
+.result {
+  text-align: right;
+  font-weight: bold;
+}
+
